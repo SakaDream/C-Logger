@@ -1,5 +1,5 @@
-#ifndef __dbg_h__
-#define __dbg_h__
+#ifndef __logwt_h__
+#define __logwt_h__
 
 #define KMAG  "\x1B[35m" // Time
 #define KCYN  "\x1B[36m" // Debug

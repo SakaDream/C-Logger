@@ -1,5 +1,5 @@
-#ifndef __dbg_h__
-#define __dbg_h__
+#ifndef __log_h__
+#define __log_h__
 
 #define KCYN  "\x1B[36m" // Debug
 #define KRED  "\x1B[31m" // Error
