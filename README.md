@@ -25,4 +25,4 @@ Simple include `log.h` or `logwt.h` to your C source code
 - Info Log: Default Terminal Text Color
 
 # Credits
-- This tool is based by debug tool on the book **Learn C The Hard Way** by **Zed A. Shaw**
+- This tool is based on debug tool on the book **Learn C The Hard Way** by **Zed A. Shaw**
