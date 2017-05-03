@@ -8,7 +8,11 @@ Simple colorful C / C++ Logger
 - **logwt.h**: Logger header file with program's execute time
 
 # How to use
-Simple include `log.h` or `logwt.h` to your C source code
+- Copy `log.h`, `logwt.h` and `time_printf.o` to your source code folder
+- Include `log.h` or `logwt.h` to your C source code
+- Link `time_printf.o` when compile
+
+# List of functions
 - `debug(Message, [arguments])` : Show debug message
 - `log_err(Message, [arguments])` : Show error message
 - `log_warn(Message, [arguments])` : Show warning message
